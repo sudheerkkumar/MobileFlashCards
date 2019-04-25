@@ -1,11 +1,15 @@
-# Udacity React Project 3
-> Udacicards: A Mobile Flashcard App
+# Udacicards: A Mobile Flashcard App
+> Udacity React Project 3
+
+## What is Mobile Flashcards
+
+Mobile Flashcards is a mobile app for creating digital flashcards and was designed and developed using React Native. This project was created as part of the Udacity React Native course.
 
 ## Why this project?
 
 Project Details:
 
-"This project encompasses the fundamental aspects of building a native application including handling infinite lists, routing, and user input."
+This project encompasses the fundamental aspects of building a native application including handling infinite lists, routing, and user input.
 
 ## Usage
 
